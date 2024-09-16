@@ -197,5 +197,5 @@ Esta solução implementa uma API funcional com banco de dados Oracle na nuvem, 
 
 ### Links importantes:
 
-- **Repositório GitHub**: [Insira o link do repositório GitHub aqui]
-- **Link para o Vídeo Demonstrativo**: [Insira o link do vídeo aqui]
+- **Repositório GitHub**: [https://github.com/gusoaresf/DevOps---Golden-Data]
+- **Link para o Vídeo Demonstrativo**: [https://www.youtube.com/watch?v=bKjapK8USwE]
