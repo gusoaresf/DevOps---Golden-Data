@@ -1,3 +1,4 @@
+image_path = "IMG/Diagrama.png"
 # API Flask com Banco de Dados Oracle em Nuvem - Gestão de Clientes e Pedidos
 
 ## 1) Breve Descrição da Solução
@@ -9,6 +10,10 @@ O banco de dados utilizado é o **Oracle**, hospedado na nuvem, garantindo a per
 A API implementa operações de **CRUD (Create, Read, Update, Delete)**, permitindo:
 - **Clientes**: Adicionar, listar, atualizar e remover clientes.
 - **Pedidos**: Adicionar, listar, atualizar e remover pedidos associados a clientes.
+
+### Arquitetura da Solução:
+
+![Diagrama da Arquitetura]({image_path})
 
 ## 2) Benefícios para o Negócio
 
